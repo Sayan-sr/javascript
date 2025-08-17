@@ -8,7 +8,7 @@ let myDate = new Date()
 
 let myCreatedDate = new Date(2025, 7, 16, 3, 5)
 // console.log(myCreatedDate.toDateString());
-// console.log(myCreatedDate.toLocaleDateString());
+console.log(myCreatedDate.toLocaleDateString());
 
 let myCreatedAnotherDate = new Date("08-16-2025")
 // console.log(myCreatedAnotherDate.toLocaleDateString());
